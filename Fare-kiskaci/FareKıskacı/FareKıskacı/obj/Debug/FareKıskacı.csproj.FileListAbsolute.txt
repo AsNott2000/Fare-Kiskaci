@@ -1,0 +1,12 @@
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\bin\Debug\FareKıskacı.exe.config
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\bin\Debug\FareKıskacı.exe
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\bin\Debug\FareKıskacı.pdb
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.csproj.AssemblyReference.cache
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.csproj.SuggestedBindingRedirects.cache
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.Form1.resources
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.Properties.Resources.resources
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.csproj.GenerateResource.cache
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.csproj.CoreCompileInputs.cache
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.exe
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.pdb
+C:\Users\ncskn\Desktop\Fare Oyunum\FareKıskacı\FareKıskacı\obj\Debug\FareKıskacı.Form2.resources
